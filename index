@@ -1,0 +1,279 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://gomes-mei.htmly.com.br/
+Subject: =?utf-8?Q?Servi=C3=A7os=20e=20Finan=C3=A7as=20|=20GOMES-MEI?=
+Date: Sat, 17 Oct 2026 02:00:28 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8P6SRlEvDL3lxOVqEdARUk3i63NWPaletlM9B2Zbgl----"
+
+
+------MultipartBoundary--8P6SRlEvDL3lxOVqEdARUk3i63NWPaletlM9B2Zbgl----
+Content-Type: text/html
+Content-ID: <frame-2525BA7A74EB502BCEF7169BCA16740B@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://gomes-mei.htmly.com.br/
+
+<!DOCTYPE html><html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-50cac4b0-5dca-4075-b046-5295bca66502@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#123b5d">
+<title>Serviços e Finanças | GOMES-MEI</title>
+
+<!-- Htmly SEO Injection -->
+<meta property="og:url" content="https://gomes-mei.htmly.com.br">
+<link rel="canonical" href="https://gomes-mei.htmly.com.br/">
+<!-- /Htmly SEO Injection -->
+</head>
+<body>
+<div class="app">
+<header>
+ <div class="brand">
+  <svg class="logo" viewBox="0 0 64 64" aria-label="Logo de chaveiro" role="img"><circle cx="22" cy="20" r="13" fill="none" stroke="#f5c451" stroke-width="5"></circle><circle cx="22" cy="20" r="4" fill="#f5c451"></circle><path d="M31 29L52 50L46 56L40 50L35 45L39 41L32 34" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M16 34L10 40L16 46L22 40" fill="none" stroke="#f5c451" stroke-width="4" stroke-linecap="round"></path></svg>
+  <h1>GOMES-MEI</h1>
+ </div>
+ <p>Boa programação e organização são a base para um bom desempenho - Lucas 14:28</p>
+</header>
+<main>
+<section id="home" class="view">
+ <div class="home-buttons">
+  <button>▤ &nbsp; Lançamentos</button>
+  <button>♙ &nbsp; Clientes</button>
+ </div>
+ <section class="panel">
+  <div class="panel-head"><h2>Lançamentos do mês</h2><div class="month-controls"><select id="monthSelect" aria-label="Mês"><option value="0">Janeiro</option><option value="1">Fevereiro</option><option value="2">Março</option><option value="3">Abril</option><option value="4">Maio</option><option value="5">Junho</option><option value="6">Julho</option><option value="7">Agosto</option><option value="8">Setembro</option><option value="9">Outubro</option><option value="10">Novembro</option><option value="11">Dezembro</option></select><select id="monthYearSelect" aria-label="Ano do mês"><option>2021</option><option>2022</option><option>2023</option><option>2024</option><option>2025</option><option>2026</option><option>2027</option><option>2028</option><option>2029</option><option>2030</option><option>2031</option></select></div></div>
+  <div class="summary-grid" id="monthSummary"><div class="metric"><span class="name">Serviços</span><span class="amount ">R$&nbsp;1.504,20</span></div><div class="metric"><span class="name">Serviços NF</span><span class="amount ">R$&nbsp;128,00</span></div><div class="metric"><span class="name">Total</span><span class="amount blue">R$&nbsp;1.632,20</span></div><div class="metric"><span class="name">Receitas</span><span class="amount green-text">R$&nbsp;3.693,94</span></div><div class="metric"><span class="name">Despesas</span><span class="amount red">R$&nbsp;2.187,55</span></div><div class="metric"><span class="name">Saldo</span><span class="amount green-text">R$&nbsp;1.506,39</span></div><div class="metric"><span class="name">Poup</span><span class="amount ">R$&nbsp;278,33</span></div><div class="metric"><span class="name">Saques</span><span class="amount ">R$&nbsp;0,00</span></div><div class="metric"><span class="name">Soma</span><span class="amount orange">R$&nbsp;278,33</span></div></div>
+ </section>
+ <section class="panel">
+  <div class="panel-head"><h2>Lançamentos do Ano</h2><select id="annualYear" style="width:auto;min-width:100px" aria-label="Ano"><option>2021</option><option>2022</option><option>2023</option><option>2024</option><option>2025</option><option>2026</option><option>2027</option><option>2028</option><option>2029</option><option>2030</option><option>2031</option></select></div>
+  <div class="summary-grid" id="yearSummary"><div class="metric"><span class="name">Serviços</span><span class="amount ">R$&nbsp;20.118,52</span></div><div class="metric"><span class="name">Serviços NF</span><span class="amount ">R$&nbsp;1.322,00</span></div><div class="metric"><span class="name">Total</span><span class="amount blue">R$&nbsp;21.440,52</span></div></div>
+ </section>
+</section>
+
+<section id="lancamentos" class="view active">
+ <button class="secondary back">← Início</button>
+ <section class="panel">
+  <div class="panel-head"><h2 id="entryFormTitle">Novo lançamento</h2></div>
+  <form id="entryForm">
+   
+   <div class="form-grid">
+    <div class="field"><label for="entryDate">Data *</label><input id="entryDate" type="date" required=""></div>
+    <div class="field"><label for="entryValue">Valor (R$) *</label><input id="entryValue" type="number" min="0" step="0.01" placeholder="0,00" required=""></div>
+    <div class="field full"><label for="entryDescription">Descrição *</label><input id="entryDescription" required="" maxlength="150" placeholder="Descrição do lançamento"></div>
+    <div class="field"><label for="entryType">Tipo *</label><select id="entryType" required=""><option>Receita</option><option>Despesa</option></select></div>
+    <div class="field"><label for="entryCategory">Categoria *</label><select id="entryCategory" required=""><option>Serviço Comum</option><option>Serviço NF</option><option>Extra</option><option>Investimento</option><option>Gasto</option><option>Saque</option></select></div>
+    <div class="field full"><label for="entryClient">Cliente</label><select id="entryClient"><option value="">Sem cliente</option><option value="mvbkgd6ouii0ur">Cliente _Balcão</option><option value="mvbkf70oh3ebys">Sustenidos</option></select></div>
+    <div class="field full"><label for="entryNote">Observação</label><textarea id="entryNote" placeholder="Informações adicionais (opcional)"></textarea></div>
+   </div>
+   <div class="actions"><button type="submit" id="entrySubmit">Salvar lançamento</button><button type="button" class="secondary hidden" id="entryCancel">Cancelar edição</button></div>
+  </form>
+ </section>
+ <section class="panel">
+  <div class="panel-head"><h2>Planilha de lançamentos</h2><span id="entryCount" class="note">5 registro(s)</span></div>
+  <div class="toolbar">
+   <div class="field" style="flex:1;min-width:145px"><label for="entryMonthFilter">Mês dos lançamentos</label><select id="entryMonthFilter" aria-label="Filtrar lançamentos por mês"><option value="">Todos os meses</option><option value="01">Janeiro</option><option value="02">Fevereiro</option><option value="03">Março</option><option value="04">Abril</option><option value="05">Maio</option><option value="06">Junho</option><option value="07">Julho</option><option value="08">Agosto</option><option value="09">Setembro</option><option value="10">Outubro</option><option value="11">Novembro</option><option value="12">Dezembro</option></select></div>
+   <div class="field" style="flex:1;min-width:100px"><label for="entryYearFilter">Ano</label><select id="entryYearFilter" aria-label="Filtrar lançamentos por ano"><option value="">Todos os anos</option><option value="2026">2026</option></select></div>
+   <input id="entrySearch" placeholder="Buscar por descrição, cliente ou categoria..." aria-label="Buscar lançamentos"><select id="entryFilterType" style="max-width:130px" aria-label="Filtrar tipo"><option value="">Todos os tipos</option><option>Receita</option><option>Despesa</option></select>
+  </div>
+  <div class="table-wrap"><table><thead><tr><th>Data</th><th>Descrição</th><th>Valor</th><th>Tipo</th><th>Categoria</th><th>Cliente</th><th>Observação</th><th>Ações</th></tr></thead><tbody id="entryRows"><tr><td>16/10/2026</td><td>Despesas</td><td class="money">R$&nbsp;2.187,55</td><td class="red">Despesa</td><td>Gasto</td><td>—</td><td>—</td><td><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></td></tr><tr><td>16/10/2026</td><td>Serviço</td><td class="money">R$&nbsp;1.504,20</td><td class="green-text">Receita</td><td>Serviço Comum</td><td>Cliente _Balcão</td><td>—</td><td><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></td></tr><tr><td>15/10/2026</td><td>Cópias</td><td class="money">R$&nbsp;128,00</td><td class="green-text">Receita</td><td>Serviço NF</td><td>Sustenidos</td><td>Samuel</td><td><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></td></tr><tr><td>01/10/2026</td><td>BDC</td><td class="money">R$&nbsp;1.621,00</td><td class="green-text">Receita</td><td>Extra</td><td>—</td><td>Salário</td><td><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></td></tr><tr><td>01/10/2026</td><td>Saldo</td><td class="money">R$&nbsp;440,74</td><td class="green-text">Receita</td><td>Extra</td><td>—</td><td>—</td><td><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></td></tr></tbody></table></div>
+  <p class="note">Os registros são salvos neste dispositivo e navegador.</p>
+ </section>
+</section>
+
+<section id="clientes" class="view">
+ <button class="secondary back">← Início</button>
+ <section class="panel">
+  <div class="panel-head"><h2 id="clientFormTitle">Cadastro de clientes</h2></div>
+  <form id="clientForm">
+   
+   <div class="form-grid">
+    <div class="field full"><label for="clientName">Nome do cliente *</label><input id="clientName" required="" maxlength="120" placeholder="Nome completo ou empresa"></div>
+    <div class="field"><label for="clientPhone">Telefone</label><input id="clientPhone" type="tel" maxlength="30" placeholder="(00) 00000-0000"></div>
+    <div class="field"><label for="clientEmail">E-mail</label><input id="clientEmail" type="email" maxlength="120" placeholder="cliente@email.com"></div>
+    <div class="field full"><label for="clientNote">Observação</label><textarea id="clientNote" placeholder="Endereço ou outras informações (opcional)"></textarea></div>
+   </div>
+   <div class="actions"><button type="submit" id="clientSubmit">Salvar cliente</button><button type="button" class="secondary hidden" id="clientCancel">Cancelar edição</button></div>
+  </form>
+ </section>
+ <section class="panel">
+  <div class="panel-head"><h2>Clientes cadastrados</h2><span id="clientCount" class="note">2 cliente(s)</span></div>
+  <div class="toolbar"><input id="clientSearch" placeholder="Buscar cliente..." aria-label="Buscar clientes"></div>
+  <div id="clientList" class="client-list"><div class="client-card"><div><strong>Cliente _Balcão</strong><small>15998288311 · sulamitaplati@gmail.com</small></div><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></div><div class="client-card"><div><strong>Sustenidos</strong><small>1532058430 · samuel.cruz@conservatoriodetatui.org.br</small><div class="note">Att Samuel</div></div><div class="actions"><button class="small">Editar</button><button class="small danger">Excluir</button></div></div></div>
+ </section>
+</section>
+</main>
+<footer>GOMES-MEI · Serviços e Finanças</footer>
+</div>
+
+<div id="htmly-badge" style="display:flex !important;align-items:center;visibility:visible !important;opacity:0.9 !important;position:fixed;bottom:12px;right:12px;z-index:99999;background:#1a1a2e;color:#fff;padding:6px 12px;border-radius:20px;font-family:-apple-system,sans-serif;font-size:12px;box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  <a href="https://htmly.com.br/?ref=badge" target="_blank" rel="noopener" style="color:#fff;text-decoration:none;">Made with HTMLy</a>
+  <span style="margin:0 4px;opacity:0.5;">|</span>  <a href="https://htmly.com.br/report/gomes-mei" target="_blank" rel="nofollow noopener" style="color:#fff;text-decoration:none;opacity:0.7;font-size:11px;">Reportar</a>
+</div>
+
+
+<iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;"></iframe>
+
+</body></html>
+------MultipartBoundary--8P6SRlEvDL3lxOVqEdARUk3i63NWPaletlM9B2Zbgl----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-50cac4b0-5dca-4075-b046-5295bca66502@mhtml.blink
+
+@charset "utf-8";
+
+:root { --navy: #123b5d; --blue: #1675c1; --pale: #eef5fa; --green: #198754; --red: #c62828; --orange: #e87918; --ink: #203040; --muted: #64748b; --line: #d9e2ec; --white: #fff; }
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; background: rgb(243, 246, 249); color: var(--ink); font: 14px / 1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+
+.app { width: 100%; max-width: 1280px; margin: auto; min-height: 100vh; background: rgb(248, 250, 252); box-shadow: rgba(18, 59, 93, 0.07) 0px 0px 28px; }
+
+header { background: linear-gradient(135deg, rgb(18, 59, 93), rgb(29, 98, 141)); color: white; padding: 20px 16px 18px; text-align: center; }
+
+.brand { display: flex; align-items: center; justify-content: center; gap: 10px; }
+
+.logo { width: 45px; height: 45px; flex: 0 0 auto; }
+
+h1 { font-size: 21px; letter-spacing: 1.5px; margin: 0px; font-weight: 800; }
+
+header p { font-size: 13px; font-style: italic; max-width: 760px; margin: 10px auto 0px; color: rgb(227, 237, 246); }
+
+main { padding: 14px; }
+
+.view { display: none; }
+
+.view.active { display: block; }
+
+.home-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 3px 0px 18px; }
+
+button, .button { border: 0px; border-radius: 10px; background: var(--navy); color: white; padding: 11px 14px; font-weight: 700; font-size: 13px; cursor: pointer; }
+
+button:active { transform: translateY(1px); }
+
+button.secondary { background: rgb(230, 237, 243); color: var(--navy); }
+
+button.danger { background: rgb(180, 35, 24); }
+
+button.small { padding: 7px 9px; font-size: 12px; border-radius: 7px; }
+
+button.green { background: var(--green); }
+
+.home-buttons button { min-height: 54px; font-size: 15px; box-shadow: rgba(18, 59, 93, 0.125) 0px 3px 8px; }
+
+.panel { background: white; border: 1px solid var(--line); border-radius: 13px; padding: 14px; margin-bottom: 14px; box-shadow: rgba(24, 50, 74, 0.03) 0px 2px 8px; }
+
+.panel-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+
+h2 { font-size: 16px; margin: 0px; color: var(--navy); }
+
+h3 { font-size: 14px; margin: 0px 0px 10px; color: var(--navy); }
+
+.month-controls { display: flex; gap: 7px; align-items: center; flex-wrap: wrap; }
+
+.month-controls select { width: auto; min-width: 105px; }
+
+select, input, textarea { width: 100%; padding: 10px; border: 1px solid rgb(203, 213, 225); border-radius: 8px; background: rgb(255, 255, 255); color: var(--ink); font: inherit; min-width: 0px; }
+
+label { display: block; font-size: 11px; font-weight: 700; color: rgb(71, 85, 105); margin: 0px 0px 5px; }
+
+.field { min-width: 0px; }
+
+.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+.field.full { grid-column: 1 / -1; }
+
+textarea { resize: vertical; min-height: 74px; }
+
+.summary-grid { display: grid; grid-template-columns: repeat(3, minmax(0px, 1fr)); gap: 8px; }
+
+.metric { background: rgb(243, 247, 251); border: 1px solid rgb(224, 232, 240); border-radius: 10px; padding: 10px 8px; min-width: 0px; }
+
+.metric .name { display: block; color: rgb(82, 100, 119); font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.35px; }
+
+.metric .amount { display: block; margin-top: 5px; font-size: 15px; font-weight: 800; overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+
+.blue { color: var(--blue) !important; }
+
+.red { color: var(--red) !important; }
+
+.orange { color: var(--orange) !important; }
+
+.green-text { color: var(--green) !important; }
+
+.actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+
+.toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+
+.toolbar input { flex: 1 1 0%; min-width: 150px; }
+
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 9px; background: white; }
+
+table { border-collapse: collapse; width: 100%; font-size: 12px; min-width: 760px; }
+
+th, td { text-align: left; padding: 10px 9px; border-bottom: 1px solid rgb(231, 237, 243); vertical-align: top; }
+
+th { background: rgb(237, 243, 248); color: rgb(37, 68, 95); font-size: 11px; position: sticky; top: 0px; }
+
+tbody tr:last-child td { border-bottom: 0px; }
+
+td.money { white-space: nowrap; font-weight: 700; }
+
+td .actions { margin: 0px; flex-wrap: nowrap; }
+
+.empty { text-align: center; color: var(--muted); padding: 24px 12px; }
+
+.note { font-size: 11px; color: var(--muted); margin: 8px 0px 0px; }
+
+.section-title { margin: 0px 0px 10px; }
+
+.back { margin-bottom: 12px; }
+
+.hidden { display: none !important; }
+
+.client-list { display: grid; gap: 8px; }
+
+.client-card { display: flex; justify-content: space-between; align-items: center; gap: 10px; border: 1px solid var(--line); border-radius: 9px; padding: 11px; background: rgb(255, 255, 255); }
+
+.client-card strong { display: block; }
+
+.client-card small { color: var(--muted); }
+
+footer { text-align: center; padding: 18px; color: rgb(113, 128, 150); font-size: 10px; }
+
+@media (min-width: 600px) {
+  main { padding: 24px; }
+  .summary-grid { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .metric .amount { font-size: 18px; }
+  .home-buttons { max-width: 720px; margin: 3px auto 20px; }
+  .panel { padding: 20px; }
+  .form-grid { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+}
+
+@media (min-width: 900px) {
+  header { padding: 26px 24px; }
+  .brand h1 { font-size: 27px; }
+  .logo { width: 56px; height: 56px; }
+  main { padding: 28px; }
+  .view.active#home { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+  .view.active#home > .home-buttons { grid-column: 1 / -1; width: 100%; max-width: none; }
+  .view.active#home > .panel { margin-bottom: 0px; }
+  .summary-grid { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+}
+
+@media (max-width: 380px) {
+  main { padding: 10px; }
+  .panel { padding: 11px; }
+  .summary-grid { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .form-grid { grid-template-columns: 1fr; }
+  .field.full { grid-column: auto; }
+  .metric .amount { font-size: 14px; }
+  .home-buttons button { font-size: 13px; }
+}
+------MultipartBoundary--8P6SRlEvDL3lxOVqEdARUk3i63NWPaletlM9B2Zbgl----
+Content-Type: text/html
+Content-ID: <frame-B8BD72A50FC22EF3CDD8B8BF18416943@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--8P6SRlEvDL3lxOVqEdARUk3i63NWPaletlM9B2Zbgl------
